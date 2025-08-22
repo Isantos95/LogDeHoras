@@ -1,0 +1,9 @@
+{
+    "name": "Log de Horas",
+    "description": "Log as horas trabalhas",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "action":{
+        "default_popup": "index.html"
+    }
+}
